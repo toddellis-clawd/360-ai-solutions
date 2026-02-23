@@ -127,16 +127,18 @@ export default function Demo() {
               }}
             >
               This project management board was designed, coded, and deployed
-              entirely by AI — no human-written code. It's a live example of
-              what's possible when AI works as your business's digital employee.
+              entirely by AI — no human-written code. Your assistant comes loaded
+              with 15+ specialized business skills including copywriting, email
+              marketing, lead generation, offer design, content repurposing, and
+              SEO research.
             </p>
 
             {/* Feature bullets */}
             <div className="reveal" style={{ marginBottom: '2rem' }}>
               {[
-                'Fully functional Kanban board',
-                'Drag-and-drop task management',
-                'Built and deployed in hours, not weeks',
+                '15+ specialized business skills built-in',
+                'Copywriting, email marketing & lead generation',
+                'Offer design, content repurposing & SEO research',
                 'Live at a real URL — no demo smoke and mirrors',
               ].map((feat) => (
                 <div

@@ -3,29 +3,43 @@ const services = [
     icon: '🤖',
     title: 'Custom AI Assistant Setup',
     description:
-      'We configure and deploy a private AI assistant tailored specifically to your business — your workflows, your terminology, your processes. Always on, always available.',
-    highlights: ['Personalized to your business', 'Runs 24/7 without interruption', 'No per-query fees'],
+      'Your own always-on digital assistant, running on hardware you own. Configured to your business needs — email, calendar, messaging, and more.',
+    highlights: ['Runs on hardware you own', 'Configured to your needs', '24/7 availability'],
   },
   {
     icon: '🔒',
     title: 'Privacy-First Architecture',
     description:
-      'Your AI runs on your own hardware or private server. No data sent to OpenAI, Google, or any third-party cloud. What happens in your business stays in your business.',
-    highlights: ['Zero third-party data exposure', 'GDPR & compliance friendly', 'Air-gapped option available'],
+      'Self-hosted means your data never leaves your control. No cloud AI reading your emails or client data. Enterprise-grade security from day one.',
+    highlights: ['Zero third-party data exposure', 'Enterprise-grade security', 'GDPR & compliance friendly'],
+  },
+  {
+    icon: '✍️',
+    title: 'Marketing & Content Engine',
+    description:
+      'AI-powered copywriting, email sequences, newsletters, and social content. Professional marketing output without the agency price tag.',
+    highlights: ['Email sequences & newsletters', 'Social content creation', 'Agency results, fraction of the cost'],
+  },
+  {
+    icon: '🎯',
+    title: 'Lead Generation & Offers',
+    description:
+      'Lead magnet creation, landing page copy, offer architecture, and keyword research. Turn your expertise into a client acquisition machine.',
+    highlights: ['Lead magnet creation', 'Offer architecture', 'Keyword & SEO research'],
   },
   {
     icon: '🔧',
-    title: 'Seamless Integrations',
+    title: 'Business Integrations',
     description:
-      'Connect your AI assistant to the tools you already use — email, calendar, project management, CRM, messaging platforms, and more. One assistant, everything connected.',
-    highlights: ['Email & calendar sync', 'Project management tools', 'Slack, Teams & more'],
+      'Connect your calendar, email, project management, and CRM. Your assistant works across all your tools — not just one.',
+    highlights: ['Email & calendar sync', 'CRM & project management', 'All tools, one assistant'],
   },
   {
     icon: '📞',
     title: 'Ongoing Support & Growth',
     description:
-      'We don\'t disappear after setup. We provide continuous maintenance, security updates, and add new capabilities as your business evolves and AI technology advances.',
-    highlights: ['Proactive monitoring', 'Regular capability updates', 'Dedicated support line'],
+      'Monthly support, new capabilities as you grow, and continuous optimization. Your AI assistant gets smarter over time.',
+    highlights: ['Monthly support included', 'Continuous optimization', 'New capabilities as you grow'],
   },
 ]
 
